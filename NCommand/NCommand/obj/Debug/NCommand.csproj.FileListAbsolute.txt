@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\NCommand\NCommand\bin\Debug\NCommand.exe.config
+C:\Users\Admin\source\repos\NCommand\NCommand\bin\Debug\NCommand.exe
+C:\Users\Admin\source\repos\NCommand\NCommand\bin\Debug\NCommand.pdb
+C:\Users\Admin\source\repos\NCommand\NCommand\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\NCommand\NCommand\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\NCommand\NCommand\obj\Debug\NCommand_MarkupCompile.cache
+C:\Users\Admin\source\repos\NCommand\NCommand\obj\Debug\NCommand_MarkupCompile.lref
+C:\Users\Admin\source\repos\NCommand\NCommand\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\NCommand\NCommand\obj\Debug\NCommand.g.resources
+C:\Users\Admin\source\repos\NCommand\NCommand\obj\Debug\NCommand.Properties.Resources.resources
+C:\Users\Admin\source\repos\NCommand\NCommand\obj\Debug\NCommand.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\NCommand\NCommand\obj\Debug\NCommand.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\NCommand\NCommand\obj\Debug\NCommand.exe
+C:\Users\Admin\source\repos\NCommand\NCommand\obj\Debug\NCommand.pdb
+C:\Users\Admin\source\repos\NCommand\NCommand\obj\Debug\NCommand.csprojAssemblyReference.cache
