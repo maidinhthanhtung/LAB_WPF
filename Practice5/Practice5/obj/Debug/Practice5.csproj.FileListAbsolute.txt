@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Practice5\Practice5\bin\Debug\Practice5.exe.config
+C:\Users\Admin\source\repos\Practice5\Practice5\bin\Debug\Practice5.exe
+C:\Users\Admin\source\repos\Practice5\Practice5\bin\Debug\Practice5.pdb
+C:\Users\Admin\source\repos\Practice5\Practice5\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\Practice5\Practice5\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\Practice5\Practice5\obj\Debug\Practice5_MarkupCompile.cache
+C:\Users\Admin\source\repos\Practice5\Practice5\obj\Debug\Practice5_MarkupCompile.lref
+C:\Users\Admin\source\repos\Practice5\Practice5\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\Practice5\Practice5\obj\Debug\Practice5.g.resources
+C:\Users\Admin\source\repos\Practice5\Practice5\obj\Debug\Practice5.Properties.Resources.resources
+C:\Users\Admin\source\repos\Practice5\Practice5\obj\Debug\Practice5.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Practice5\Practice5\obj\Debug\Practice5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Practice5\Practice5\obj\Debug\Practice5.exe
+C:\Users\Admin\source\repos\Practice5\Practice5\obj\Debug\Practice5.pdb
