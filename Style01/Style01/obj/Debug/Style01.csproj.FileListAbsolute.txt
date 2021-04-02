@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Style01\Style01\bin\Debug\Style01.exe.config
+C:\Users\Admin\source\repos\Style01\Style01\bin\Debug\Style01.exe
+C:\Users\Admin\source\repos\Style01\Style01\bin\Debug\Style01.pdb
+C:\Users\Admin\source\repos\Style01\Style01\obj\Debug\Style01.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Style01\Style01\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\Style01\Style01\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\Style01\Style01\obj\Debug\Style01_MarkupCompile.cache
+C:\Users\Admin\source\repos\Style01\Style01\obj\Debug\Style01_MarkupCompile.lref
+C:\Users\Admin\source\repos\Style01\Style01\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\Style01\Style01\obj\Debug\Style01.g.resources
+C:\Users\Admin\source\repos\Style01\Style01\obj\Debug\Style01.Properties.Resources.resources
+C:\Users\Admin\source\repos\Style01\Style01\obj\Debug\Style01.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Style01\Style01\obj\Debug\Style01.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Style01\Style01\obj\Debug\Style01.exe
+C:\Users\Admin\source\repos\Style01\Style01\obj\Debug\Style01.pdb
