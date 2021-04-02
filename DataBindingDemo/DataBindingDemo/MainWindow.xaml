@@ -1,0 +1,25 @@
+﻿<Window x:Class="DataBindingDemo.MainWindow"
+xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+xmlns:local="clr-namespace:DataBindingDemo"
+Title="Databinding Demo" Height="300" Width="300">
+    <Window.Resources>
+        <local:StudentList x:Key="studentCollection" >
+            <local:Student StudentName="Syed Abbas" IsEnrolled="false" />
+            <local:Student StudentName="Lori Kane" IsEnrolled="true" />
+            <local:Student StudentName="Steve Masters" IsEnrolled="false" />
+            <local:Student StudentName="Tai Yee" IsEnrolled="true" />
+            <local:Student StudentName="Brenda Diaz" IsEnrolled="true" />
+        </local:StudentList>
+        <local:BoolToBrushConverter x:Key="boolToBrushConverter" />
+        <DataTemplate x:Key="listBoxTemplate">
+            <StackPanel Orientation="Horizontal" >
+                <Rectangle Fill="{Binding Path=IsEnrolled, Converter={StaticResource boolToBrushConverter}}" Height="10" Width="10" Margin="0,0,5,0" />
+                <TextBlock Text="{Binding Path=StudentName}" />
+            </StackPanel>
+        </DataTemplate>
+    </Window.Resources>
+    <Grid>
+        <ListBox HorizontalAlignment="Left" Height="166" VerticalAlignment="Top" Width="159" ItemsSource="{Binding Mode=OneWay, Source={StaticResource studentCollection}}" Margin="10,41,0,0" SelectionChanged="ListBox_SelectionChanged" ItemTemplate="{Binding Mode=OneWay, Source={StaticResource listBoxTemplate}}"/>
+    </Grid>
+</Window>

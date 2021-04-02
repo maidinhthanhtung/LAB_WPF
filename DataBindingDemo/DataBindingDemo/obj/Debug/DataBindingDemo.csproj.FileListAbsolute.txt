@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\DataBindingDemo\DataBindingDemo\bin\Debug\DataBindingDemo.exe.config
+C:\Users\Admin\source\repos\DataBindingDemo\DataBindingDemo\bin\Debug\DataBindingDemo.exe
+C:\Users\Admin\source\repos\DataBindingDemo\DataBindingDemo\bin\Debug\DataBindingDemo.pdb
+C:\Users\Admin\source\repos\DataBindingDemo\DataBindingDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\DataBindingDemo\DataBindingDemo\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\DataBindingDemo\DataBindingDemo\obj\Debug\DataBindingDemo_MarkupCompile.cache
+C:\Users\Admin\source\repos\DataBindingDemo\DataBindingDemo\obj\Debug\DataBindingDemo_MarkupCompile.lref
+C:\Users\Admin\source\repos\DataBindingDemo\DataBindingDemo\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\DataBindingDemo\DataBindingDemo\obj\Debug\DataBindingDemo.g.resources
+C:\Users\Admin\source\repos\DataBindingDemo\DataBindingDemo\obj\Debug\DataBindingDemo.Properties.Resources.resources
+C:\Users\Admin\source\repos\DataBindingDemo\DataBindingDemo\obj\Debug\DataBindingDemo.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DataBindingDemo\DataBindingDemo\obj\Debug\DataBindingDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DataBindingDemo\DataBindingDemo\obj\Debug\DataBindingDemo.exe
+C:\Users\Admin\source\repos\DataBindingDemo\DataBindingDemo\obj\Debug\DataBindingDemo.pdb
+C:\Users\Admin\source\repos\DataBindingDemo\DataBindingDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
